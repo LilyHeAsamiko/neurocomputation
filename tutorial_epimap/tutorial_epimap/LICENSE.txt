@@ -1,0 +1,35 @@
+ImaGIN SEEG/epilepsy tutorial dataset
+-------------------------------------------------------------------------------
+
+LICENSE
+=======
+This tutorial dataset (EEG and MRI data) remains property of the Grenoble 
+University Hospital, France. Its use and transfer outside the ImaGIN tutorial, 
+e.g. for research purposes, is prohibited without written consent. For questions, 
+please contact Olivier David, PhD (olivier.david@grenoble-univ-alpes.fr). 
+
+REFERENCE
+=========
+The acquisition methodology is described in the following articles:
+
+David O, Blauwblomme T, Job AS, Chabardès S, Hoffmann D, Minotti L, Kahane P
+Imaging the seizure onset zone with stereo-electroencephalography
+Brain. 2011 Oct;134(10):2898-911
+https://academic.oup.com/brain/article/134/10/2898/323878
+
+Lamarche F, Job AS, Deman P, Bhattacharjee M, Hoffmann D, Gallazzini-Crépin C, 
+Bouvard S, Minotti L, Kahane P, David O. Correlation of FDG-PET hypometabolism 
+and SEEG epileptogenicity mapping in patients with drug-resistant focal epilepsy
+Epilepsia. 2016 Dec; 57(12):2045–2055
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5214566/
+
+
+DESCRIPTION
+===========
+This dataset includes recordings for a patient that was not reported in the 
+above articles, but are part of the same study. The patient presents a focal
+epilepsy of the left temporo-occipital junction, MRI-negative, and was implanted 
+in the surrounding areas.
+The subfolder "seeg" contains the recordings of three seizures, all of them 
+showing a propagation of high-frequency oscillations from the lesion towards 
+the temporal lobe, bilaterally.
